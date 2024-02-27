@@ -20,10 +20,6 @@ source venv/bin/activate # Для Windows: venv\Scripts\activate
 Установка зависимостей
 pip install -r requirements.txt
 
-Запуск проекта
-Запустите приложение, используя следующую команду:
-python app.py
-
 Тестирование
 Для запуска тестов используйте следующую команду:
 pytest
